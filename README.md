@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tuoyou-hao
 - 👀 I’m interested in music, games and artificial intelligence technology.
 - 🌱 I’m currently learning ML,DL,opencv & slam
-- 💞️ I’m looking to collaborate on ... not yet~
-- 📫 How to reach me [my simple personal websize](https://tuoyou-hao.github.io/)
+- 💞️ My blogs : [tuoyou-hao.github.io](https://tuoyou-hao.github.io/)
+- 📫 My email : a310218279@gmail.com
 
 <!---
 tuoyou-hao/tuoyou-hao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
